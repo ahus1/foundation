@@ -1570,7 +1570,7 @@ Sandbox,Clusternet,Di Xu,Tencent,dixudx,https://github.com/clusternet/clusternet
 ,,Lingming Xia,Purple Mountain Laboratory,lmxia,
 ,,Yiwei Chen,Independent,yiwei-C,
 Incubating,Keycloak,Stian Thorgersen,IBM,stianst,https://github.com/keycloak/keycloak/blob/main/MAINTAINERS.md
-,,Alexander Schwartz,Red Hat,ahus1,
+,,Alexander Schwartz,IBM,ahus1,
 ,,Marek Posolda,Red Hat,mposolda,
 ,,Pedro Igor,Red Hat,pedroigor,
 ,,Sebastian Schuster,Bosch,sschu,
@@ -2178,6 +2178,7 @@ Sandbox,OpenChoreo,Sameera Jayasoma,WSO2,sameerajayasoma,https://github.com/open
 ,,Binura Gunasekara,WSO2,binura-g,
 ,,Tishan Dahanayaka,WSO2,tishan89,
 ,,Miraj Abeysekara,WSO2,Mirage20,
+
 
 
 
